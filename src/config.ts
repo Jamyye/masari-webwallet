@@ -25,9 +25,9 @@ global.config = {
 	idleWarningDuration: 20,
 
 	coinSymbol: 'AEON',
-	openAliasPrefix: "msr",
-	coinName: 'Masari',
-	coinUriPrefix: 'masari:',
+	openAliasPrefix: "aeon",
+	coinName: 'Aeon',
+	coinUriPrefix: 'aeon:',
 	avgBlockTime: 240,
 	maxBlockNumber: 500000000,
 
